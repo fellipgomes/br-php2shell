@@ -2,7 +2,7 @@
 
 # check-CVE-2026-109619
 
-Detector de exposição à CVE-2026-109619 em aplicações PHP.
+Detector de exposição à PHP2SHELL CVE-2026-109619 em aplicações PHP.
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Dependencies](https://img.shields.io/badge/dependencies-zero-success?style=flat-square)](#-instalação)
